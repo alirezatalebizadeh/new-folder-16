@@ -13,3 +13,6 @@ Open HTML file and right click on the editor on Open with Live Server.
 ## Usage
 
 Use arrow keys to control tge snake head.
+
+```
+# have a good time
